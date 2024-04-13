@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\labuser\\Desktop\\.Net_Datastructures\\Array\\Array_Demo\\Array_Demo.csproj",
-      "projectName": "Array_Demo",
-      "projectPath": "C:\\Users\\labuser\\Desktop\\.Net_Datastructures\\Array\\Array_Demo\\Array_Demo.csproj",
+      "projectUniqueName": "C:\\Users\\labuser\\Desktop\\.Net_Datastructures\\Singly_Linkedlist\\Singly_Linkedlist_demo\\Singly_Linkedlist_demo.csproj",
+      "projectName": "Singly_Linkedlist_demo",
+      "projectPath": "C:\\Users\\labuser\\Desktop\\.Net_Datastructures\\Singly_Linkedlist\\Singly_Linkedlist_demo\\Singly_Linkedlist_demo.csproj",
       "packagesPath": "C:\\Users\\labuser\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\labuser\\Desktop\\.Net_Datastructures\\Array\\Array_Demo\\obj\\",
+      "outputPath": "C:\\Users\\labuser\\Desktop\\.Net_Datastructures\\Singly_Linkedlist\\Singly_Linkedlist_demo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\labuser\\AppData\\Roaming\\NuGet\\NuGet.Config"
