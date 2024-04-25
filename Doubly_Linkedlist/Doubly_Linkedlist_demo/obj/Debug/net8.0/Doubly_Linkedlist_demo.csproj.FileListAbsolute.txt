@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\.Net_Datastructures\Doubly_Linkedlist\Doubly_Linkedlist_demo\bin\Debug\net8.0\Doubly_Linkedlist_demo.exe
+C:\Users\labuser\Desktop\.Net_Datastructures\Doubly_Linkedlist\Doubly_Linkedlist_demo\bin\Debug\net8.0\Doubly_Linkedlist_demo.deps.json
+C:\Users\labuser\Desktop\.Net_Datastructures\Doubly_Linkedlist\Doubly_Linkedlist_demo\bin\Debug\net8.0\Doubly_Linkedlist_demo.runtimeconfig.json
+C:\Users\labuser\Desktop\.Net_Datastructures\Doubly_Linkedlist\Doubly_Linkedlist_demo\bin\Debug\net8.0\Doubly_Linkedlist_demo.dll
+C:\Users\labuser\Desktop\.Net_Datastructures\Doubly_Linkedlist\Doubly_Linkedlist_demo\bin\Debug\net8.0\Doubly_Linkedlist_demo.pdb
+C:\Users\labuser\Desktop\.Net_Datastructures\Doubly_Linkedlist\Doubly_Linkedlist_demo\obj\Debug\net8.0\Doubly_Linkedlist_demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\.Net_Datastructures\Doubly_Linkedlist\Doubly_Linkedlist_demo\obj\Debug\net8.0\Doubly_Linkedlist_demo.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\.Net_Datastructures\Doubly_Linkedlist\Doubly_Linkedlist_demo\obj\Debug\net8.0\Doubly_Linkedlist_demo.AssemblyInfo.cs
+C:\Users\labuser\Desktop\.Net_Datastructures\Doubly_Linkedlist\Doubly_Linkedlist_demo\obj\Debug\net8.0\Doubly_Linkedlist_demo.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\.Net_Datastructures\Doubly_Linkedlist\Doubly_Linkedlist_demo\obj\Debug\net8.0\Doubly_Linkedlist_demo.sourcelink.json
+C:\Users\labuser\Desktop\.Net_Datastructures\Doubly_Linkedlist\Doubly_Linkedlist_demo\obj\Debug\net8.0\Doubly_Linkedlist_demo.dll
+C:\Users\labuser\Desktop\.Net_Datastructures\Doubly_Linkedlist\Doubly_Linkedlist_demo\obj\Debug\net8.0\refint\Doubly_Linkedlist_demo.dll
+C:\Users\labuser\Desktop\.Net_Datastructures\Doubly_Linkedlist\Doubly_Linkedlist_demo\obj\Debug\net8.0\Doubly_Linkedlist_demo.pdb
+C:\Users\labuser\Desktop\.Net_Datastructures\Doubly_Linkedlist\Doubly_Linkedlist_demo\obj\Debug\net8.0\Doubly_Linkedlist_demo.genruntimeconfig.cache
+C:\Users\labuser\Desktop\.Net_Datastructures\Doubly_Linkedlist\Doubly_Linkedlist_demo\obj\Debug\net8.0\ref\Doubly_Linkedlist_demo.dll
