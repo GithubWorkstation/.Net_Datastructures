@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\.Net_Datastructures\Stack\Stack_Demo\bin\Debug\net8.0\Stack_Demo.exe
+C:\Users\labuser\Desktop\.Net_Datastructures\Stack\Stack_Demo\bin\Debug\net8.0\Stack_Demo.deps.json
+C:\Users\labuser\Desktop\.Net_Datastructures\Stack\Stack_Demo\bin\Debug\net8.0\Stack_Demo.runtimeconfig.json
+C:\Users\labuser\Desktop\.Net_Datastructures\Stack\Stack_Demo\bin\Debug\net8.0\Stack_Demo.dll
+C:\Users\labuser\Desktop\.Net_Datastructures\Stack\Stack_Demo\bin\Debug\net8.0\Stack_Demo.pdb
+C:\Users\labuser\Desktop\.Net_Datastructures\Stack\Stack_Demo\obj\Debug\net8.0\Stack_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\.Net_Datastructures\Stack\Stack_Demo\obj\Debug\net8.0\Stack_Demo.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\.Net_Datastructures\Stack\Stack_Demo\obj\Debug\net8.0\Stack_Demo.AssemblyInfo.cs
+C:\Users\labuser\Desktop\.Net_Datastructures\Stack\Stack_Demo\obj\Debug\net8.0\Stack_Demo.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\.Net_Datastructures\Stack\Stack_Demo\obj\Debug\net8.0\Stack_Demo.sourcelink.json
+C:\Users\labuser\Desktop\.Net_Datastructures\Stack\Stack_Demo\obj\Debug\net8.0\Stack_Demo.dll
+C:\Users\labuser\Desktop\.Net_Datastructures\Stack\Stack_Demo\obj\Debug\net8.0\refint\Stack_Demo.dll
+C:\Users\labuser\Desktop\.Net_Datastructures\Stack\Stack_Demo\obj\Debug\net8.0\Stack_Demo.pdb
+C:\Users\labuser\Desktop\.Net_Datastructures\Stack\Stack_Demo\obj\Debug\net8.0\Stack_Demo.genruntimeconfig.cache
+C:\Users\labuser\Desktop\.Net_Datastructures\Stack\Stack_Demo\obj\Debug\net8.0\ref\Stack_Demo.dll
