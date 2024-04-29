@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\.Net_Datastructures\Queue\Queue_Demo\bin\Debug\net8.0\Queue_Demo.exe
+C:\Users\labuser\Desktop\.Net_Datastructures\Queue\Queue_Demo\bin\Debug\net8.0\Queue_Demo.deps.json
+C:\Users\labuser\Desktop\.Net_Datastructures\Queue\Queue_Demo\bin\Debug\net8.0\Queue_Demo.runtimeconfig.json
+C:\Users\labuser\Desktop\.Net_Datastructures\Queue\Queue_Demo\bin\Debug\net8.0\Queue_Demo.dll
+C:\Users\labuser\Desktop\.Net_Datastructures\Queue\Queue_Demo\bin\Debug\net8.0\Queue_Demo.pdb
+C:\Users\labuser\Desktop\.Net_Datastructures\Queue\Queue_Demo\obj\Debug\net8.0\Queue_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\.Net_Datastructures\Queue\Queue_Demo\obj\Debug\net8.0\Queue_Demo.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\.Net_Datastructures\Queue\Queue_Demo\obj\Debug\net8.0\Queue_Demo.AssemblyInfo.cs
+C:\Users\labuser\Desktop\.Net_Datastructures\Queue\Queue_Demo\obj\Debug\net8.0\Queue_Demo.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\.Net_Datastructures\Queue\Queue_Demo\obj\Debug\net8.0\Queue_Demo.sourcelink.json
+C:\Users\labuser\Desktop\.Net_Datastructures\Queue\Queue_Demo\obj\Debug\net8.0\Queue_Demo.dll
+C:\Users\labuser\Desktop\.Net_Datastructures\Queue\Queue_Demo\obj\Debug\net8.0\refint\Queue_Demo.dll
+C:\Users\labuser\Desktop\.Net_Datastructures\Queue\Queue_Demo\obj\Debug\net8.0\Queue_Demo.pdb
+C:\Users\labuser\Desktop\.Net_Datastructures\Queue\Queue_Demo\obj\Debug\net8.0\Queue_Demo.genruntimeconfig.cache
+C:\Users\labuser\Desktop\.Net_Datastructures\Queue\Queue_Demo\obj\Debug\net8.0\ref\Queue_Demo.dll
