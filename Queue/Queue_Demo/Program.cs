@@ -6,10 +6,10 @@ namespace Queuedemo
     {
         static void Main(string[] args)
         {
-            runApp();
+            RunApplication();
         }
 
-        public static void runApp()
+        public static void RunApplication()
         {
             Queue Q = new Queue(10);
 
