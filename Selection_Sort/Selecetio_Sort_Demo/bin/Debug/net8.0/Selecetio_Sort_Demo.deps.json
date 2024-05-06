@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Selecetio_Sort_Demo/1.0.0": {
+        "runtime": {
+          "Selecetio_Sort_Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Selecetio_Sort_Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

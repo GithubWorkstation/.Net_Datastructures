@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\.Net_Datastructures\Selection_Sort\Selecetio_Sort_Demo\bin\Debug\net8.0\Selecetio_Sort_Demo.exe
+C:\Users\labuser\Desktop\.Net_Datastructures\Selection_Sort\Selecetio_Sort_Demo\bin\Debug\net8.0\Selecetio_Sort_Demo.deps.json
+C:\Users\labuser\Desktop\.Net_Datastructures\Selection_Sort\Selecetio_Sort_Demo\bin\Debug\net8.0\Selecetio_Sort_Demo.runtimeconfig.json
+C:\Users\labuser\Desktop\.Net_Datastructures\Selection_Sort\Selecetio_Sort_Demo\bin\Debug\net8.0\Selecetio_Sort_Demo.dll
+C:\Users\labuser\Desktop\.Net_Datastructures\Selection_Sort\Selecetio_Sort_Demo\bin\Debug\net8.0\Selecetio_Sort_Demo.pdb
+C:\Users\labuser\Desktop\.Net_Datastructures\Selection_Sort\Selecetio_Sort_Demo\obj\Debug\net8.0\Selecetio_Sort_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\.Net_Datastructures\Selection_Sort\Selecetio_Sort_Demo\obj\Debug\net8.0\Selecetio_Sort_Demo.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\.Net_Datastructures\Selection_Sort\Selecetio_Sort_Demo\obj\Debug\net8.0\Selecetio_Sort_Demo.AssemblyInfo.cs
+C:\Users\labuser\Desktop\.Net_Datastructures\Selection_Sort\Selecetio_Sort_Demo\obj\Debug\net8.0\Selecetio_Sort_Demo.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\.Net_Datastructures\Selection_Sort\Selecetio_Sort_Demo\obj\Debug\net8.0\Selecetio_Sort_Demo.sourcelink.json
+C:\Users\labuser\Desktop\.Net_Datastructures\Selection_Sort\Selecetio_Sort_Demo\obj\Debug\net8.0\Selecetio_Sort_Demo.dll
+C:\Users\labuser\Desktop\.Net_Datastructures\Selection_Sort\Selecetio_Sort_Demo\obj\Debug\net8.0\refint\Selecetio_Sort_Demo.dll
+C:\Users\labuser\Desktop\.Net_Datastructures\Selection_Sort\Selecetio_Sort_Demo\obj\Debug\net8.0\Selecetio_Sort_Demo.pdb
+C:\Users\labuser\Desktop\.Net_Datastructures\Selection_Sort\Selecetio_Sort_Demo\obj\Debug\net8.0\Selecetio_Sort_Demo.genruntimeconfig.cache
+C:\Users\labuser\Desktop\.Net_Datastructures\Selection_Sort\Selecetio_Sort_Demo\obj\Debug\net8.0\ref\Selecetio_Sort_Demo.dll
