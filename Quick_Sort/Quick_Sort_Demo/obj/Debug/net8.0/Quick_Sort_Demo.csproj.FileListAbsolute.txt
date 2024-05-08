@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\.Net_Datastructures\Quick_Sort\Quick_Sort_Demo\bin\Debug\net8.0\Quick_Sort_Demo.exe
+C:\Users\labuser\Desktop\.Net_Datastructures\Quick_Sort\Quick_Sort_Demo\bin\Debug\net8.0\Quick_Sort_Demo.deps.json
+C:\Users\labuser\Desktop\.Net_Datastructures\Quick_Sort\Quick_Sort_Demo\bin\Debug\net8.0\Quick_Sort_Demo.runtimeconfig.json
+C:\Users\labuser\Desktop\.Net_Datastructures\Quick_Sort\Quick_Sort_Demo\bin\Debug\net8.0\Quick_Sort_Demo.dll
+C:\Users\labuser\Desktop\.Net_Datastructures\Quick_Sort\Quick_Sort_Demo\bin\Debug\net8.0\Quick_Sort_Demo.pdb
+C:\Users\labuser\Desktop\.Net_Datastructures\Quick_Sort\Quick_Sort_Demo\obj\Debug\net8.0\Quick_Sort_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\.Net_Datastructures\Quick_Sort\Quick_Sort_Demo\obj\Debug\net8.0\Quick_Sort_Demo.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\.Net_Datastructures\Quick_Sort\Quick_Sort_Demo\obj\Debug\net8.0\Quick_Sort_Demo.AssemblyInfo.cs
+C:\Users\labuser\Desktop\.Net_Datastructures\Quick_Sort\Quick_Sort_Demo\obj\Debug\net8.0\Quick_Sort_Demo.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\.Net_Datastructures\Quick_Sort\Quick_Sort_Demo\obj\Debug\net8.0\Quick_Sort_Demo.sourcelink.json
+C:\Users\labuser\Desktop\.Net_Datastructures\Quick_Sort\Quick_Sort_Demo\obj\Debug\net8.0\Quick_Sort_Demo.dll
+C:\Users\labuser\Desktop\.Net_Datastructures\Quick_Sort\Quick_Sort_Demo\obj\Debug\net8.0\refint\Quick_Sort_Demo.dll
+C:\Users\labuser\Desktop\.Net_Datastructures\Quick_Sort\Quick_Sort_Demo\obj\Debug\net8.0\Quick_Sort_Demo.pdb
+C:\Users\labuser\Desktop\.Net_Datastructures\Quick_Sort\Quick_Sort_Demo\obj\Debug\net8.0\Quick_Sort_Demo.genruntimeconfig.cache
+C:\Users\labuser\Desktop\.Net_Datastructures\Quick_Sort\Quick_Sort_Demo\obj\Debug\net8.0\ref\Quick_Sort_Demo.dll
